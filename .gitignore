@@ -1,0 +1,7 @@
+# 実機のコンフィグを誤ってコミットしないため
+*.conf
+*.log
+*.cfg
+!sample/*.conf
+*.xlsm
+*.xlsx
